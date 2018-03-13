@@ -141,6 +141,7 @@ Thanks to all of you, may (the history of) the source be with you!
 [![Swiss Made](https://img.shields.io/badge/swiss-made-red.svg?colorA=E11A27&colorB=555555)](https://magit.vc/stats/authors.html#commits_per_author)
 [![Netscape](https://magit.vc/assets/netscape-20px.png)](https://en.wikipedia.org/wiki/Browser_wars)
 [![Paren Xkcb](https://img.shields.io/badge/%28-%20%20%20-red.svg)](https://xkcd.com/859)
+)
 
 
 [contrib]: https://github.com/magit/magit/blob/master/CONTRIBUTING.md
